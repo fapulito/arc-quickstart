@@ -1,3 +1,5 @@
+Hello! This repository is a fork from @ArcadiaPower. It is the starting point for the Climafixit app that will offer data visualization and payment features for utility ratepayers. 
+
 This project demonstrates how to use Arcadia's [connect-react](https://github.com/ArcadiaPower/connect-react/) component in an example integration against the [Arc Platform API](http://developers.arcadia.com).
 
 # Arcadia's Arc Quickstart
@@ -11,7 +13,7 @@ You'll need your Arcadia API keys, a computer that can run Node.js version 14.x,
 
 The first step is to clone this example application. Use `git` to download the repository:
 ```.sh
-git clone https://github.com/ArcadiaPower/arc-quickstart.git
+git clone https://github.com/fapulito/arc-quickstart.git
 ```
 
 Next, ensure you're using Node.js version 14.x (and NPM version 6.x). The easiest way to do that is by using `nvm` within the project directory (if you don't already have `nvm` installed, see [installation instructions here](https://github.com/nvm-sh/nvm#installing-and-updating)):
