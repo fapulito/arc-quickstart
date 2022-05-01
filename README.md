@@ -1,5 +1,9 @@
 Hello! This repository is a fork from @ArcadiaPower. It is the starting point for the Climafixit app that will offer data visualization and payment features for utility ratepayers. 
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/36351826/166133721-647305b5-be22-42bb-88fc-8940d9541b66.png" width="250" alt="Climafixit Logo on Beige Background with Maroon Border" class="Center">
+</p>
+  
 This project demonstrates how to use Arcadia's [connect-react](https://github.com/ArcadiaPower/connect-react/) component in an example integration against the [Arc Platform API](http://developers.arcadia.com).
 
 # Arcadia's Arc Quickstart
