@@ -1,7 +1,7 @@
 {
   "name": "arc-quickstart",
   "version": "0.1.0",
-  "description": "A sample app and accompanying walkthrough for Arcadia's Arc Platform",
+  "description": "Climafixit | Chart Your Power!",
   "scripts": {
     "build": "./scripts/build.sh",
     "start": "concurrently \"node ./server\" \"PORT=8090 BROWSER=none react-scripts start\"",
