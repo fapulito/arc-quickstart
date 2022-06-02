@@ -2,6 +2,5 @@
 set -euo pipefail
 # install client dependencies
 npm i @babel/core
-npm i --prefix "./src"
 # install server dependencies
 npm i --prefix "./server"
