@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 set -euo pipefail
 # install client dependencies
-npm i @babel/core
+npm ci
 # install server dependencies
 npm i --prefix "./server"
