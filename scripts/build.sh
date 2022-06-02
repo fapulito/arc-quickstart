@@ -3,4 +3,4 @@ set -euo pipefail
 # install client dependencies
 npm i
 # install server dependencies
-npm i --prefix "./src"
+npm i --prefix "./server"
